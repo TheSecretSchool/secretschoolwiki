@@ -1,0 +1,9 @@
+This repo contains a TiddlyWiki.  It is the wiki component of [[http://iani.github.io/performigrations][The Secret School]] installation for [[http://performigrations.eu][Performigrations]].
+
+It is meant to be cloned in Raspberry Pi.
+
+Branches:
+
+- master :: not much used.
+- github ::for viewing online on github - no secret school/piratebox interface available.
+- rpi :: for use in Raspberry Pi / secret school / PirateBox interface works.
