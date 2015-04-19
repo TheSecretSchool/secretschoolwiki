@@ -5,5 +5,5 @@ It is meant to be cloned in Raspberry Pi.
 Branches:
 
 - master :: not much used.
-- github ::for viewing online on github - no secret school/piratebox interface available.
-- rpi :: for use in Raspberry Pi / secret school / PirateBox interface works.
+- gh-pages :: for viewing online on github - no secret school/piratebox interface available.
+- piratebox :: for use in Raspberry Pi / secret school / PirateBox interface works.
