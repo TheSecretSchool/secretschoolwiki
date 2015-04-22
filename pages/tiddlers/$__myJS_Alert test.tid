@@ -1,0 +1,7 @@
+created: 20150417192429385
+modified: 20150418183800893
+tags: $:/tags/RawMarkup
+title: $:/myJS/Alert test
+type: text/vnd.tiddlywiki
+
+<script src="js/alertTest.js"></script>

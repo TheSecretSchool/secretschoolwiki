@@ -1,0 +1,185 @@
+created: 20150416224522493
+modified: 20150422033258083
+tags: 
+title: Navigator
+type: text/vnd.tiddlywiki
+
+* Maybe make thumbnails this big? It will make the Navigator a bit smaller
+<$button class="tc-btn-invisible">
+	<$action-navigate2 $id="Georgia 01" $path="http://192.168.77.1/PhotosGeorgia/georgia-web-selected/DSC_1793.jpg" $dimension="width"/>
+<img style="margin-bottom:2.5%;" width="125px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_1793.jpg">
+    </$button>
+<$button class="tc-btn-invisible">
+<$action-navigate $to="Georgia 02"/>
+<img style="margin-bottom:2.5%;" width="125px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_1857.jpg"></$button>
+<$button class="tc-btn-invisible">
+<$action-navigate $to="Georgia 03"/>
+<img style="margin-bottom:2.5%;" width="125px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_1869.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 04"/>
+<img style="margin-bottom:2.5%;" width="125px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_1963.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 05"/>
+<img style="margin-bottom:2.5%;" width="125px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_1971.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 06"/>
+<img style="margin-bottom:2.5%;" width="125px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_2078.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 07"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_2102.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate2 $to="Georgia 08" $path="http://192.168.77.1/PhotosGeorgia/georgia-web-selected/DSC_2105.jpg" $dimension="height"/>
+<img style="margin-bottom:2.5%;" height="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_2105.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 09"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_2110.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 10"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_2163.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 11"/>
+<img style="margin-bottom:2.5%;" height="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_2166.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 12"/>
+<img style="margin-bottom:2.5%;" height="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_2174.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 13"/>
+<img style="margin-bottom:2.5%;" height="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_2177.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 14"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_3735.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 15"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_3785.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 16"/>
+<img style="margin-bottom:2.5%;" height="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_3871.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 17"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_3888.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 18"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_3918.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 19"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_3967.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 20"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4009.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 21"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4016.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 22"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4094.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 23"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4100.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 24"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4131.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 25"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4138.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 26"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4147.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 27"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4149.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 28"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4164.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 29"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4167.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 30"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4172.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 31"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4179.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 32"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4194.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 33"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4211.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 34"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4220.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 35"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4231.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 36"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4237.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 37"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4248.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 38"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4251.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 39"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4264.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 40"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4269.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 41"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4352.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 42"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4359.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 43"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4373.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 44"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4396.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 45"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4466.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 46"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4467.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 47"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4549.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 48"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4551.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 49"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4553.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 50"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4559.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 51"/>
+<img style="margin-bottom:2.5%;" height="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4650.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 52"/>
+<img style="margin-bottom:2.5%;" height="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_4651.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 53"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_5003.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 54"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_5239.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 55"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_5351.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 56"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_5554.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 57"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_5575.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 58"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_5578.jpg"></$button>
+<$button class="tc-btn-invisible">
+  <$action-navigate $to="Georgia 59"/>
+<img style="margin-bottom:2.5%;" width="150px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_5588.jpg"></$button>
