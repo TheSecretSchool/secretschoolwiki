@@ -1,12 +1,21 @@
 created: 20150416183105257
-modified: 20150416183629865
+modified: 20150422063929576
 tags: [[Design Considerations]]
 title: Keywords
 type: text/vnd.tiddlywiki
 
-[[years]]
-[[journey]]
-[[migration]]
+<$button class="tc-btn-invisible">
+<$action-socketSend $key="years"/>
+years
+</$button>
+<$button class="tc-btn-invisible">
+<$action-socketSend $key="journey"/>
+journey
+</$button>
+<$button class="tc-btn-invisible">
+<$action-socketSend $key="migration"/>
+migration
+</$button>
 [[hours]]
 [[home]]
 [[bus]]

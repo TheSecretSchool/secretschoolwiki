@@ -1,12 +1,12 @@
 created: 20150416224522493
-modified: 20150421022143073
+modified: 20150422033258083
 tags: 
 title: Navigator
 type: text/vnd.tiddlywiki
 
 * Maybe make thumbnails this big? It will make the Navigator a bit smaller
 <$button class="tc-btn-invisible">
-	<$action-navigate2 $to="Georgia 01" $path="http://192.168.77.1/PhotosGeorgia/georgia-web-selected/DSC_1793.jpg" $dimension="width"/>
+	<$action-navigate2 $id="Georgia 01" $path="http://192.168.77.1/PhotosGeorgia/georgia-web-selected/DSC_1793.jpg" $dimension="width"/>
 <img style="margin-bottom:2.5%;" width="125px" src="PhotosGeorgia/georgia-web-selected-thumbnails/DSC_1793.jpg">
     </$button>
 <$button class="tc-btn-invisible">
